@@ -1,0 +1,1 @@
+highlight("fn", "reserved")
